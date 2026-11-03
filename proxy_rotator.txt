@@ -2,7 +2,9 @@
 127.0.0.1:60001:choimai:salak123
 127.0.0.1:60002:choimai:salak123
 127.0.0.1:60003:choimai:salak123
-127.0.0.1:60004:choimai:salak12
+127.0.0.1:60004:choimai:salak123
 127.0.0.1:60005:choimai:salak123
 127.0.0.1:60006:choimai:salak123
 127.0.0.1:60007:choimai:salak123
+127.0.0.1:60008:choimai:salak123
+127.0.0.1:60009:choimai:salak123
